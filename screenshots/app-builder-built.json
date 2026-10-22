@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "ForgeDesk Repair",
+      "hasCanvas": false,
+      "bodyTextLen": 1821,
+      "bodyTextHash": "bcee83a03b0bc38d72674ea227b1a9ba31cd74df75d0d9313eff6f2ce1cca6f1",
+      "bodyTextPrefix": "ForgeDesk Services How it works Visit Book a repair COMPUTER & L",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "ForgeDesk Repair",
+      "hasCanvas": false,
+      "bodyTextLen": 1793,
+      "bodyTextHash": "824be50b451fe1c4e5bfd0ffc7d335910649397cebf241848062691c7b2175f6",
+      "bodyTextPrefix": "ForgeDesk Book a repair COMPUTER & LAPTOP REPAIR Fixed on the be",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

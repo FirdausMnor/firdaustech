@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FirdausTech",
+      "hasCanvas": false,
+      "bodyTextLen": 1893,
+      "bodyTextHash": "221be0d90bb63921d67e1367b5200bf7c8153bbba89c1d1ee00e0ea248ba9a15",
+      "bodyTextPrefix": "FirdausTech Services How it works Visit Book a repair COMPUTER &",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FirdausTech",
+      "hasCanvas": false,
+      "bodyTextLen": 1865,
+      "bodyTextHash": "2e98f15bbfec62a1a1b6a3cf9997142b362e5c918ec3f25c6da32880e4c969d0",
+      "bodyTextPrefix": "FirdausTech Book a repair COMPUTER & LAPTOP REPAIR Fixed on the ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
